@@ -1,0 +1,11 @@
+com\helpdesk\ui\MenuCliente.class
+com\helpdesk\model\Chamado.class
+com\helpdesk\Main.class
+com\helpdesk\model\ScannerL.class
+com\helpdesk\model\StatusChamado.class
+com\helpdesk\model\TipoUsuario.class
+com\helpdesk\ui\Menu.class
+com\helpdesk\service\UsuarioService.class
+com\helpdesk\ui\MenuTecnico.class
+com\helpdesk\model\Usuario.class
+com\helpdesk\service\ChamadoService.class
